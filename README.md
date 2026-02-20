@@ -418,15 +418,3 @@ em um pipeline altamente otimizado, escalável e focado em descoberta de secrets
 
 # Contato
 yuri.defciber@gmail.com
-
-O YONKOU é um scanner completo que combina:
-
-- Discovery Engine
-- Fetch Engine
-- Analysis Engine
-- Detection Engine
-- Correlation Engine
-- Scoring Engine
-- Reporting Engine
-
-em um pipeline altamente otimizado, escalável e focado em descoberta de secrets expostos.
