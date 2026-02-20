@@ -73,7 +73,7 @@ Objetivos:
 
 Coleta URLs usando múltiplas fontes:
 
-- GAU (Wayback, Common Crawl, OTX, URLScan)
+- Coleta Massiva de Urls e Mirrors
 - Wayback Machine API
 - Enumeração ativa via wordlists
 
